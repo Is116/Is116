@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋 I'm Isuru Pathirathna
+
+I'm a Software Engineer. I'm passionate about open source and I'm always looking for new ways to contribute to the community.
 
 
 ## 🌐 Socials:
@@ -13,5 +15,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
