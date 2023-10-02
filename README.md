@@ -1,6 +1,10 @@
-### Hi 👋 I'm Isuru Pathirathna
+<h1 align="center">Hi 👋 I'm Isuru Pathirathna</h1>
 
-I'm a Software Engineer. I'm passionate about open source and I'm always looking for new ways to contribute to the community.
+<h3 align="center">I'm a Software Engineer.<br/> I'm passionate about open source and I'm always looking for new ways to contribute to the community.</h3>
+
+<p align="center">
+  <img src="https://github.com/Is116/is116/blob/main/isuru_github.gif" alt="codeing" width="400" style="display: block; margin: 0 auto 10px auto;">
+</p>
 
 
 ## 🌐 Socials:
