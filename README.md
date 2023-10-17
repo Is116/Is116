@@ -12,7 +12,6 @@
 ###🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isuru-pathirathna-b3b9a4138)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/isuru_pathirathna)
 [![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=telegram&logoColor=white)](https://t.me/isuru_pathirathna)
 
 ###💻 Tech Stack:
